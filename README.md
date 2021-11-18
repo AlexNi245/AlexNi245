@@ -20,7 +20,7 @@ I love learning new technologies - currently, I'm fascinated about everything We
 
 ## My stack 
 
-Below are some technologies I love to use
+Below are some technologies I ❤️ to use
 
 
 
@@ -61,6 +61,8 @@ Below are some technologies I love to use
             </a>  
              
 </p>
+<br>
+<br>
 <br>
 
 ### Web 3
@@ -103,6 +105,10 @@ Below are some technologies I love to use
             </a>  
 
 </p>
+
+<br>
+<br>
+<br>
 
 ### Backend / Infrastructure
 
