@@ -27,7 +27,7 @@ Below are some technologies I love to use
 ### Frontend / Mobile
 <a href="https://reactjs.org/" rel="nofollow">
 <img
-            src="img/react_logo.svg"
+            src="img/React_logo.svg"
             alt="React" height="48px" style="max-width: 100%; margin-right:40px;"> 
             </a>
         <a href="https://vuejs.org/" rel="nofollow">
